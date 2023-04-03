@@ -1,0 +1,37 @@
+html {
+    margin: 0;
+    padding: 0;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: rgb(141, 145, 158);
+    display: flex;
+    justify-content: space-between;
+}
+ 
+header img {
+    width: 64px;
+    height: 64px;
+}
+
+nav a{
+    color: black;
+    text-decoration: none;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+footer {
+    background-color: rgb(141, 145, 158);
+    text-align: center;   
+}
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+
+
+
